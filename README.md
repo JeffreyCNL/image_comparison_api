@@ -1,5 +1,5 @@
 # Image Comparison API
-## For demonstration purpose, please refer to the image_comparison_app.py 
+## For DyNotify reference, please refer to the image_comparison_app.py 
 
 ## Getting Started
 
